@@ -1,5 +1,6 @@
 #include <stdio.h>
-//DSA homework1: Array: insert, delete, search.
+//C program
+//Array: insert, delete, search.
 void show_element(int n, int array[n]);
 void insert_element(int n, int array[n]);
 void delete_element(int n, int array[n]);
